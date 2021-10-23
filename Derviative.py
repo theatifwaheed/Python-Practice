@@ -20,9 +20,3 @@ print("Original: ")
 print(Array)
 print("Derivative: ")
 print(Derivative)
-
-
-
-
-
-
