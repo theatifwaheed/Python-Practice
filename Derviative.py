@@ -1,4 +1,4 @@
-# TODO: This was Quiz 2 AI Question.
+# This was Quiz 2 AI Question.
 
 # Array to Derivative...
 Array = [2, 3, 4, 6, 1, 4, 77, 9, 2, 5, 8, -6]
